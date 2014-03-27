@@ -79,7 +79,7 @@
   </parent>
   <groupId>org.jahia.modules</groupId>
   <artifactId>moduletest2</artifactId>
-  <version>3.0-SNAPSHOT</version>
+  <version>3.0</version>
   <packaging>bundle</packaging>
   <name>moduletest2</name>
   <description>This is the custom module (moduletest2) for running on a Digital Factory server.</description>
